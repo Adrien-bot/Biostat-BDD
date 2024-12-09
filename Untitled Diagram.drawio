@@ -161,7 +161,7 @@
           <mxGeometry y="374" width="195" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-95" value="FacturePresta" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="-285" y="-170" width="185" height="210" as="geometry" />
+          <mxGeometry x="-285" y="-170" width="185" height="220" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-97" value="+ &lt;i&gt;NResa&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-95" vertex="1">
           <mxGeometry y="26" width="185" height="26" as="geometry" />
@@ -169,17 +169,17 @@
         <mxCell id="78961159f06e98e8-96" value="+ &lt;b&gt;&lt;u&gt;NFacture&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-95" vertex="1">
           <mxGeometry y="52" width="185" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="78961159f06e98e8-98" value="+ ConsosDiverses (NSpas, NPetit-dej, NBar...)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-95" vertex="1">
-          <mxGeometry y="78" width="185" height="42" as="geometry" />
+        <mxCell id="78961159f06e98e8-98" value="&lt;div&gt;+ NbSpas&lt;/div&gt;&lt;div&gt;+&amp;nbsp; NbPetit-dej&lt;/div&gt;&lt;div&gt;+&amp;nbsp; NbBar.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-95" vertex="1">
+          <mxGeometry y="78" width="185" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="78961159f06e98e8-102" value="+ MontantConsos" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-95" vertex="1">
-          <mxGeometry y="120" width="185" height="26" as="geometry" />
+        <mxCell id="78961159f06e98e8-102" value="+ MontantPresta" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-95" vertex="1">
+          <mxGeometry y="130" width="185" height="26" as="geometry" />
         </mxCell>
         <mxCell id="yPC3rcjIszFFIL1lVHOC-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="78961159f06e98e8-95">
-          <mxGeometry y="146" width="185" height="8" as="geometry" />
+          <mxGeometry y="156" width="185" height="8" as="geometry" />
         </mxCell>
         <mxCell id="yPC3rcjIszFFIL1lVHOC-21" value="+ compute_MontantFacture (NHote-,Ncarte)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="78961159f06e98e8-95">
-          <mxGeometry y="154" width="185" height="56" as="geometry" />
+          <mxGeometry y="164" width="185" height="56" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-108" value="CarteConso" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="-890" y="-110" width="160" height="182" as="geometry" />
