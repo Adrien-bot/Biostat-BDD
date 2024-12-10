@@ -22,7 +22,7 @@
         <mxCell id="_Rc-DvYfHXm7b8wF5UQT-1" value="+ Numéro" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="78961159f06e98e8-17">
           <mxGeometry y="86" width="130" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="yPC3rcjIszFFIL1lVHOC-40" value="+ Catégorie (Suite...)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
+        <mxCell id="yPC3rcjIszFFIL1lVHOC-40" value="+ Catégorie " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
           <mxGeometry y="112" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-25" value="+ Nb_lits_simples" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="78961159f06e98e8-17" vertex="1">
@@ -194,7 +194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CQkCgIDjcHMGLvw-nLST-24" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="-230" width="50" height="30" as="geometry" />
+          <mxGeometry x="-720" y="-250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CQkCgIDjcHMGLvw-nLST-25" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-970" y="-230" width="50" height="30" as="geometry" />
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CQkCgIDjcHMGLvw-nLST-32" value="(1,M)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="-297" width="50" height="30" as="geometry" />
+          <mxGeometry x="-540" y="-290" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CQkCgIDjcHMGLvw-nLST-33" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-345" y="-560" width="50" height="30" as="geometry" />
